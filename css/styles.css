@@ -1,3 +1,11 @@
-.intro {
-  font-style: italic;
+.author {
+  color: red;
+  font-size: 12px;
+}
+.line1 {
+  color: red;
+
+}
+#line2 {
+  color: red;
 }
