@@ -9,3 +9,17 @@
 #line2 {
   color: red;
 }
+img {
+  float: right;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+.test-box {
+  border:  2px salmon;
+  padding: 6px;
+   margin: 20px;
+   background-color: yellow;
+}
