@@ -1,9 +1,12 @@
-# {MUSIC APP}
-#### {ALBUM REVIEWS}, {1-11-2021}
-#### By **{drake.j cole kendrick}**
+# 
+MUSIC APP
+#### 
+ALBUM REVIEWS, 1-11-2021
+#### 
+By **{drake.j cole kendrick}**
 ## Description
-{this application main agenda is to know who has produced the best album 2021
-we will ananlyze each album produced and the coming ones. }
+this application main agenda is to know who has produced the best album 2021
+we will ananlyze each album produced and the coming ones. 
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -12,15 +15,15 @@ we will ananlyze each album produced and the coming ones. }
 * format
 {this app is easy to use as it for any lovers of music beause every song is ananlysed .it is even sponsered by genius?}
 ## Known Bugs
-{we are currently fixing typing errors but all is well. }
+we are currently fixing typing errors but all is well. 
 ## Technologies Used
-{this app is set up by me using html and css.}
+{this app is set up by me using html and css
 ## Support and contact details
-{incase of any issue visit our webpage or call 0729200984 for debugs.}
+incase of any issue visit our webpage or call 0729200984 for debugs.
 ### License
-*{PARENTAL ADVISORY.MIT License
+*PARENTAL ADVISORY.MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2019] [ROCNATION]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
